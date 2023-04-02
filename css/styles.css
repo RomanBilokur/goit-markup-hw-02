@@ -62,16 +62,18 @@
     background: #2E2F42;
 }
 .main-title {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 56px;
-line-height: 1.07;
-letter-spacing: 0.02em;
-color: #FFFFFF;
-width: 1440px;
-height: 600px;
-}   
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    width: 1440px;
+    height: 600px;
+    text-align: center;
+    }
 
 .modal-btn {
     font-family: 'Roboto', sans-serif;
@@ -82,11 +84,13 @@ height: 600px;
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
+    align-items: center;
     color: #FFFFFF;
     background: #4D5AE5;
     cursor: pointer;
     width: 169px;
     height: 56px;
+    
     }
 
 .modal-btn:hover,
@@ -116,17 +120,17 @@ color: #FFFFFF;
         color: #434455;
         }
 
-        /* Section 2 */
-    .our-work-header {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: #2E2F42;
-    }
+        .our-work-header {
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 1.11;
+            letter-spacing: 0.02em;
+            text-transform: capitalize;
+            text-align: center;
+            color: #2E2F42;
+            }
 
     .our-team-header {
 font-family: 'Roboto';
