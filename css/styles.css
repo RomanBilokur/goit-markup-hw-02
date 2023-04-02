@@ -217,6 +217,7 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background: #404BBF;
+    cursor: pointer;
     }
     
     .filter-portfolio {
@@ -231,6 +232,7 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #4D5AE5;
     background: #F4F4FD;
+    cursor: pointer;
     }
     
     
