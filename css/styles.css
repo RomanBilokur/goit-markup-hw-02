@@ -36,7 +36,7 @@ body {
             }
 
             .menu-link:hover,
-.menu-link:focus {
+            .menu-link:focus {
     color: #404bbf;
 }       
 
@@ -55,8 +55,8 @@ body {
             }
 
             .address-mailto:hover,
-.address-mailto:focus {
-    color: #404BBF;}
+            .address-mailto:focus {
+             color: #404BBF;}
 
                 .contact-phone-number {
                     font-family: 'Roboto', sans-serif;
@@ -66,10 +66,13 @@ body {
                     line-height: 1.5;
                     letter-spacing: 0.02em;
                     color: #434455;
-                    
+                }
                     /*  color-logo*/
 
-.colorr {color:  #2e2f42;}               
+             .color {
+                color: #2E2F42;
+
+             }
 
             /* Hero image*/
 .hero {
@@ -218,6 +221,11 @@ color: #434455;
             letter-spacing: 0.03em;
             text-transform: uppercase;
             color: #F4F4FD;
+            }
+
+            /* colorr-footer-logo */
+            .colorr-footer {
+                color: #F4F4FD;
             }
 
            
