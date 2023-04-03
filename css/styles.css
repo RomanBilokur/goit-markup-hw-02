@@ -194,6 +194,10 @@ letter-spacing: 0.02em;
 color: #434455;
     }
 
+    .img {
+        background-color: #FFFFFF
+    }
+
     /* Footer */
 
 .logo-type-footer {
