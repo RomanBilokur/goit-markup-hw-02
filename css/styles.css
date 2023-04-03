@@ -37,7 +37,7 @@ body {
 
             .menu-link:hover,
 .menu-link:focus {
-    color: #404BBF;
+    color: #404bbf;
 }       
 
             .address-mailto {
@@ -51,12 +51,12 @@ body {
                 }
             .contact-mailto-nunber,
             .contact-mailto-nunbe {
-                color: #404BBF;
+                color: #404bbf;
             }
 
             .address-mailto:hover,
 .address-mailto:focus {
-    color: #404BBF;
+    color: #404BBF;}
 
                 .contact-phone-number {
                     font-family: 'Roboto', sans-serif;
