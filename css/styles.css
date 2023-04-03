@@ -40,7 +40,7 @@ body {
     color: #404bbf;
 }       
 
-            .address-mailto {
+            .addressa {
                 font-family: 'Roboto', sans-serif;
                 font-style: normal;
                 font-weight: 400;
@@ -54,11 +54,11 @@ body {
                 color: #404bbf;
             }
 
-            .address-mailto:hover,
-            .address-mailto:focus {
+            .addressa:hover,
+            .addressa:focus {
              color: #404BBF;}
 
-                .contact-phone-number {
+                .addressa {
                     font-family: 'Roboto', sans-serif;
                     font-style: normal;
                     font-weight: 400;
