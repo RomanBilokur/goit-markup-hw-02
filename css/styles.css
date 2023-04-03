@@ -69,10 +69,8 @@ body {
                 }
                     /*  color-logo*/
 
-             .color {
-                color: #2E2F42;
-
-             }
+             .colorr {
+                color: #2E2F42;}
 
             /* Hero image*/
 .hero {
@@ -220,7 +218,7 @@ color: #434455;
             align-items: center;
             letter-spacing: 0.03em;
             text-transform: uppercase;
-            color: #F4F4FD;
+            color: #4D5AE5;
             }
 
             /* colorr-footer-logo */
