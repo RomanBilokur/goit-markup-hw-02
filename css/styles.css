@@ -72,6 +72,10 @@ body {
              .colorr {
                 color: #2E2F42;}
 
+                .contacts {
+                    font-style: normal;
+                }
+
             /* Hero image*/
 .hero {
     background: #2E2F42;
