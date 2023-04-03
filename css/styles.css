@@ -72,7 +72,9 @@ body {
              .colorr {
                 color: #2E2F42;}
 
-                .contacts {
+                .contacts-i,
+                .contacts-p
+                 {
                     font-style: normal;
                 }
 
