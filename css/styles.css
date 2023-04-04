@@ -28,7 +28,6 @@ body {
         }
 
         .menu-link {
-            font-family: 'Roboto', sans-serif;
             font-style: normal;
             font-weight: 500;
             font-size: 16px;
@@ -43,7 +42,7 @@ body {
 }       
 
             .addressa {
-                font-family: 'Roboto', sans-serif;
+                
                 font-style: normal;
                 font-weight: 400;
                 font-size: 16px;
@@ -61,7 +60,7 @@ body {
              color: #404BBF;}
 
                 .addressa {
-                    font-family: 'Roboto', sans-serif;
+                   
                     font-style: normal;
                     font-weight: 400;
                     font-size: 16px;
@@ -85,7 +84,7 @@ body {
     background: #2E2F42;
 }
 .main-title {
-    font-family: 'Roboto', sans-serif;
+    
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
@@ -99,7 +98,7 @@ body {
     }
 
 .modal-btn {
-    font-family: 'Roboto', sans-serif;
+  
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -124,7 +123,7 @@ color: #FFFFFF;
 
 /* Section 1 */
 .distinguishing-features-header {
-    font-family: 'Roboto', sans-serif;
+  
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -134,7 +133,7 @@ color: #FFFFFF;
     }
 
     .distinguishing-features-text {
-        font-family: 'Roboto', sans-serif;
+      
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
@@ -144,7 +143,7 @@ color: #FFFFFF;
         }
 
         .our-work-header {
-            font-family: 'Roboto', sans-serif;
+          
             font-style: normal;
             font-weight: 700;
             font-size: 36px;
@@ -167,7 +166,7 @@ background: #F4F4FD;
             }
 
     .our-team-header {
-font-family: 'Roboto';
+
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
@@ -179,7 +178,7 @@ color: #2E2F42;
     }
 
     .team-member-name {
-font-family: 'Roboto';
+
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
@@ -189,7 +188,7 @@ color: #2E2F42;
     }
 
     .our-team-text {
-font-family: 'Roboto';
+
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -223,7 +222,7 @@ color: #434455;
         background: #2E2F42;
         }
         .footer-text {
-        font-family: 'Roboto';
+        
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
@@ -254,7 +253,7 @@ color: #434455;
   /* Portfolio */
     
     .filter-portfolio {
-    font-family: 'Roboto';
+    
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -270,7 +269,7 @@ color: #434455;
     
     
     .menu-portfolio {
-    font-family: 'Roboto';
+   
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -280,7 +279,7 @@ color: #434455;
     }
     
     .portfolio-text {
-    font-family: 'Roboto';
+    
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -297,7 +296,7 @@ color: #434455;
 }
 
 .portfolio-btn {
-font-family: 'Roboto', sans-serif;
+
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
