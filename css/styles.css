@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 :root {
-  accent-color: #ff6c00;
+  --accent-color: #2e2f42;
 }
 
 .list {
